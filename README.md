@@ -2,6 +2,7 @@
 - [Requirements](#Requirments)
 - [Installing the file](#Installing-the-file)
 - [Setting up and running via Pycharm IDE](#Setting-up-and-running-via-Pycharm-IDE)
+  -[Installing the modules](#Installing-the-modules)
 
 
 ## Requirments 
@@ -32,7 +33,7 @@ Once files are downloaded
 * At the top right cornor select the button that says "Add python interpretor"
 * select the file location where you downloaded python(not pycharm, but python from the first link)
 
-### Installing the moduals:
+### Installing the modules
 * Once the files are open in pycharm select new_api_test.py tab.
 * Select File - settings - Project: test_file_api.py - Project interpreter
 
