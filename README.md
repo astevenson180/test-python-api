@@ -2,8 +2,10 @@
 - [Requirements](#Requirments)
 - [Installing the file](#Installing-the-file)
 - [Setting up and running via Pycharm IDE](#Setting-up-and-running-via-Pycharm-IDE)
-  1.[Installing the modules](#Installing-the-modules)
-
+  1. [Adding an interpreter](#Adding-an-interpreter)
+  2. [Installing the modules](#Installing-the-modules)
+  3. [Running the program in Pycharm](#Running-the-program-in-Pycharm)
+- [Running via Gitbash](#Running-via-Gitbash)
 
 ## Requirments 
 * Python 3
@@ -28,10 +30,13 @@ If you do not have python installed click [HERE](https://www.python.org/download
 
 Install pycharm community edition [HERE](https://www.jetbrains.com/pycharm/download/#section=windows).
 
-Once files are downloaded
+### Adding an interpreter
 * Open new_api_test.py in pycharm
 * At the top right cornor select the button that says "Add python interpretor"
+* Select System interpreter 
 * select the file location where you downloaded python(not pycharm, but python from the first link)
+
+![setting_interpreter](https://user-images.githubusercontent.com/90855841/139483474-8e95ba21-d48c-4ffe-bed3-aa1fa91e7b50.PNG)
 
 ### Installing the modules
 * Once the files are open in pycharm select new_api_test.py tab.
@@ -51,7 +56,7 @@ Once files are downloaded
 * requests
 * Select each one and press install package
 
-### Running the program in pycharm
+### Running the program in Pycharm
 * select the new_api_test.py tab 
 
 * right click and press run or press crtl+shift+F10
@@ -80,3 +85,6 @@ pip install Flask flask-restful requests
 ```bash
 python test_file_api.py
 ```
+* You should see the following response:
+
+![end_result](https://user-images.githubusercontent.com/90855841/139483171-8ed36c01-5f3a-4eed-833a-62470de1413d.PNG)
