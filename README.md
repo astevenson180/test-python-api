@@ -1,5 +1,6 @@
 # Test API
 - [Requirements](##Requirments)
+- [Installing the file](##Installing-the-file)
 
 
 ## Requirments 
