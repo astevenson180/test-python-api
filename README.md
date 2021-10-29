@@ -10,7 +10,7 @@
 ## Requirments 
 * Python 3
 * flask
-* flask-Restful
+* flask-RESTful
 * requests
 * Pycharm IDE(OPTIONAL)
 ## Setup
