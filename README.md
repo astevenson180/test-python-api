@@ -1,6 +1,6 @@
 # Test API
 - [Requirements](#Requirments)
-- [Installing the file](#Installing-the-file)
+- [Setup](#Setup)
 - [Setting up and running via Pycharm IDE](#Setting-up-and-running-via-Pycharm-IDE)
   1. [Adding an interpreter](#Adding-an-interpreter)
   2. [Installing the modules](#Installing-the-modules)
