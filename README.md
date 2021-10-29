@@ -2,7 +2,7 @@
 - [Requirements](#Requirments)
 - [Installing the file](#Installing-the-file)
 - [Setting up and running via Pycharm IDE](#Setting-up-and-running-via-Pycharm-IDE)
-  -[Installing the modules](#Installing-the-modules)
+  1.[Installing the modules](#Installing-the-modules)
 
 
 ## Requirments 
