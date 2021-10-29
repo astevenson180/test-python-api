@@ -12,7 +12,8 @@
 * flask
 * flask-RESTful
 * requests
-* Pycharm IDE(OPTIONAL)
+* [Pycharm IDE](https://www.jetbrains.com/pycharm/download/#section=windows)(optional)
+* [git bash](https://git-scm.com/)(optional)
 ## Setup
 To install via git bash:
 ```bash
@@ -72,7 +73,7 @@ Navigate back to new_api_test.py tab and you should now see a response to the se
 &nbsp;
 
 ## Running via git bash
-* Install moduels via pip
+* Install moduels via [pip](https://pip.pypa.io/en/stable/installation/)
 ```bash
 pip install Flask flask-restful requests
 ```
